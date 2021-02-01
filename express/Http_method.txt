@@ -1,0 +1,28 @@
+1)GET:-
+    -GET carries request parameter appended in URL string.
+    -GET requests do not change the state of the resource, these are said to be safe methods.
+2)POST:-
+    -POST carries request parameter in message body which makes it more secure way of transferring data from client to server in http protocol.
+3)PUT:-
+    -PUT method uses the request URI to supply a modified version of the requested resource which replaces the original version of the resource.
+    -if the resource does not exist, then API may decide to create a new resource or not
+    -PUT APIs can be observed in request URIs.
+    -PUT requests are made on an individual resource.
+4)PATCH:-
+    -PATCH method supplies a set of instructions to modify the resource.
+    -to make partial update on a resource.
+    -Support for PATCH in browsers, servers, and web application frameworks is not universal. 
+     IE8, PHP, Tomcat, Django, and lots of other software has missing or broken support for it.
+5)DELETE:-
+6)HEAD:-
+    -The HEAD method is almost identical to GET, except without the response body. 
+7)COPY:-
+8)OPTION:-
+    -The OPTIONS method is used to describe the communication options for the target resource.
+9)LINK:-
+10)UNLINK:-
+11)PURGE:-
+12)LOCK:-
+13)UNLOCK:-
+14)PROPFIND:-
+15)VIEW:-

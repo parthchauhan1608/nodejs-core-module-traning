@@ -1,0 +1,15 @@
+{
+  "name": "relationship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "population.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.8.0"
+  }
+}

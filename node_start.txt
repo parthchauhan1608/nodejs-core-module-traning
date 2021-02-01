@@ -1,0 +1,21 @@
+1)start up tutorial 
+    https://www.tutorialspoint.com/nodejs/index.htm
+    https://nodejs.dev/introduction-to-nodejs
+    http://es6-features.org/#Constants
+2)expressjs
+	http://expressjs.com/
+3)mongoose
+	https://mongoosejs.com/docs/guide.html
+4)cluster
+    https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
+5)import use
+	https://thecodebarbarian.com/nodejs-12-imports
+	https://www.sitepoint.com/understanding-es6-modules/
+6)git
+	https://www.npmjs.com/package/simple-git
+
+
+
+->node mailer
+	https://medium.com/@msudeep.joel/using-nodemailer-to-send-email-in-node-js-ee7deba5b3d7
+
